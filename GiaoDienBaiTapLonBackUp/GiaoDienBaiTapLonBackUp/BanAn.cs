@@ -22,7 +22,7 @@ namespace GiaoDienBaiTapLonBackUp
 
         private void grbSoLuongBan_Enter(object sender, EventArgs e)
         {
-            ;
+            
         }
         //private Form activeForm = null;
         //private void openchildForm(Form childForm)
@@ -38,6 +38,7 @@ namespace GiaoDienBaiTapLonBackUp
         //    childForm.BringToFront();
         //    childForm.Show();
         //}
+        // adkjqwdhoahdyoqwhdoasdhoqidwh
 
 
         private void btnTang1_Click(object sender, EventArgs e)
